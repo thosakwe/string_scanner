@@ -1,0 +1,9 @@
+{
+	"name": "string_scanner",
+	"authors": [
+		"Tobe Osakwe"
+	],
+	"description": "A utility for scanning strings into known patterns, as well as tracking locations.",
+	"copyright": "Copyright © 2018, Tobe Osakwe",
+	"license": "MIT"
+}
